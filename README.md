@@ -6,7 +6,7 @@
 
 ## Week 1 🚧
 
-Coming Soon...
+1. [Number of Recent Calls](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/) ➡️ [CPP Solution](Week1/RecentCounter.cpp)
 
 ## Week 2 🚧
 
