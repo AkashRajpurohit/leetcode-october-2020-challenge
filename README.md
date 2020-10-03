@@ -8,6 +8,7 @@
 
 1. [Number of Recent Calls](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/) ➡️ [CPP Solution](Week1/RecentCounter.cpp)
 2. [Combination Sum](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3481/) ➡️ [CPP Solution](Week1/combinationSum.cpp)
+3. [K-diff Pairs in an Array](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3482/) ➡️ [CPP Solution](Week1/findPairs.cpp)
 
 ## Week 2 🚧
 
