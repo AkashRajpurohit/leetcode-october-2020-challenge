@@ -10,6 +10,7 @@
 2. [Combination Sum](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3481/) ➡️ [CPP Solution](Week1/combinationSum.cpp)
 3. [K-diff Pairs in an Array](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3482/) ➡️ [CPP Solution](Week1/findPairs.cpp)
 4. [Remove Covered Intervals](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3482/) ➡️ [CPP Solution](Week1/removeCoveredIntervals.cpp)
+5. [Complement of Base 10 Integer](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3482/) ➡️ [CPP Solution](Week1/bitwiseComplement.cpp)
 
 ## Week 2 🚧
 
