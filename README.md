@@ -4,7 +4,7 @@
 
 [Challenge Link](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/)
 
-## Week 1 🚧
+## Week 1 ✅
 
 1. [Number of Recent Calls](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/) ➡️ [CPP Solution](Week1/RecentCounter.cpp)
 2. [Combination Sum](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3481/) ➡️ [CPP Solution](Week1/combinationSum.cpp)
@@ -12,6 +12,7 @@
 4. [Remove Covered Intervals](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3483/) ➡️ [CPP Solution](Week1/removeCoveredIntervals.cpp)
 5. [Complement of Base 10 Integer](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3484/) ➡️ [CPP Solution](Week1/bitwiseComplement.cpp)
 6. [Insert into a Binary Search Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3485/) ➡️ [CPP Solution](Week1/insertIntoBST.cpp)
+7. [Rotate List](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3486/) ➡️ [CPP Solution](Week1/rotateRight.cpp)
 
 ## Week 2 🚧
 
