@@ -16,7 +16,7 @@
 
 ## Week 2 🚧
 
-Coming Soon...
+1. [Binary Search](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/) ➡️ [CPP Solution](Week2/search.cpp)
 
 ## Week 3 🚧
 
