@@ -17,6 +17,7 @@
 ## Week 2 🚧
 
 1. [Binary Search](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/) ➡️ [CPP Solution](Week2/search.cpp)
+2. [Serialize and Deserialize BST](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3489/) ➡️ [CPP Solution](Week2/Codec.cpp)
 
 ## Week 3 🚧
 
