@@ -19,6 +19,7 @@
 1. [Binary Search](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/) ➡️ [CPP Solution](Week2/search.cpp)
 2. [Serialize and Deserialize BST](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3489/) ➡️ [CPP Solution](Week2/Codec.cpp)
 3. [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3490/) ➡️ [CPP Solution](Week2/findMinArrowShots.cpp)
+4. [Remove Duplicate Letters](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3491/) ➡️ [CPP Solution](Week2/removeDuplicateLetters.cpp)
 
 ## Week 3 🚧
 
