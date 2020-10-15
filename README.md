@@ -14,7 +14,7 @@
 6. [Insert into a Binary Search Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3485/) ➡️ [CPP Solution](Week1/insertIntoBST.cpp)
 7. [Rotate List](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3486/) ➡️ [CPP Solution](Week1/rotateRight.cpp)
 
-## Week 2 🚧
+## Week 2 ✅
 
 1. [Binary Search](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/) ➡️ [CPP Solution](Week2/search.cpp)
 2. [Serialize and Deserialize BST](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3489/) ➡️ [CPP Solution](Week2/Codec.cpp)
@@ -22,6 +22,7 @@
 4. [Remove Duplicate Letters](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3491/) ➡️ [CPP Solution](Week2/removeDuplicateLetters.cpp)
 5. [Buddy Strings](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3492/) ➡️ [CPP Solution](Week2/buddyStrings.cpp)
 6. [Sort List](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/) ➡️ [CPP Solution](Week2/sortList.cpp)
+7. [House Robber II](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3494/) ➡️ [CPP Solution](Week2/rob.cpp)
 
 ## Week 3 🚧
 
