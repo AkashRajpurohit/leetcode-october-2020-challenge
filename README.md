@@ -26,7 +26,7 @@
 
 ## Week 3 🚧
 
-Coming Soon...
+1. [Rotate Array](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3496/) ➡️ [CPP Solution](Week3/rotate.cpp)
 
 ## Week 4 🚧
 
