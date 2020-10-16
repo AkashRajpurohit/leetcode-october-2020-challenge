@@ -27,6 +27,7 @@
 ## Week 3 🚧
 
 1. [Rotate Array](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3496/) ➡️ [CPP Solution](Week3/rotate.cpp)
+2. [Search a 2D Matrix](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3497/) ➡️ [CPP Solution](Week3/searchMatrix.cpp)
 
 ## Week 4 🚧
 
