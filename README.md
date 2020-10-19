@@ -29,6 +29,8 @@
 1. [Rotate Array](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3496/) ➡️ [CPP Solution](Week3/rotate.cpp)
 2. [Search a 2D Matrix](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3497/) ➡️ [CPP Solution](Week3/searchMatrix.cpp)
 3. [Repeated DNA Sequences](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3498/) ➡️ [CPP Solution](Week3/findRepeatedDnaSequences.cpp)
+4. [Best Time to Buy and Sell Stock IV](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3499/) ➡️ [CPP Solution](Week3/maxProfit.cpp)
+
 
 ## Week 4 🚧
 
