@@ -24,7 +24,7 @@
 6. [Sort List](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/) ➡️ [CPP Solution](Week2/sortList.cpp)
 7. [House Robber II](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3494/) ➡️ [CPP Solution](Week2/rob.cpp)
 
-## Week 3 🚧
+## Week 3 ✅
 
 1. [Rotate Array](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3496/) ➡️ [CPP Solution](Week3/rotate.cpp)
 2. [Search a 2D Matrix](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3497/) ➡️ [CPP Solution](Week3/searchMatrix.cpp)
@@ -32,6 +32,7 @@
 4. [Best Time to Buy and Sell Stock IV](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3499/) ➡️ [CPP Solution](Week3/maxProfit.cpp)
 5. [Minimum Domino Rotations For Equal Row](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3500/) ➡️ [CPP Solution](Week3/minDominoRotations.cpp)
 6. [Clone Graph](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3501/) ➡️ [CPP Solution](Week3/cloneGraph.cpp)
+7. [Asteroid Collision](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3502/) ➡️ [CPP Solution](Week3/asteroidCollision.cpp)
 
 
 ## Week 4 🚧
