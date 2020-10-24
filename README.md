@@ -37,7 +37,7 @@
 
 ## Week 4 🚧
 
-Coming Soon...
+1. [Minimum Depth of Binary Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3504/) ➡️ [CPP Solution](Week4/minDepth.cpp)
 
 ## Week 5 🚧
 
