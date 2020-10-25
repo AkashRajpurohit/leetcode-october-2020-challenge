@@ -39,6 +39,7 @@
 
 1. [Minimum Depth of Binary Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3504/) ➡️ [CPP Solution](Week4/minDepth.cpp)
 2. [132 Pattern](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3505/) ➡️ [CPP Solution](Week4/find132pattern.cpp)
+3. [Bag of Tokens](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3506/) ➡️ [CPP Solution](Week4/bagOfTokensScore.cpp)
 
 ## Week 5 🚧
 
