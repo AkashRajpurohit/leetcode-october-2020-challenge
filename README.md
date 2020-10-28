@@ -35,7 +35,7 @@
 7. [Asteroid Collision](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3502/) ➡️ [CPP Solution](Week3/asteroidCollision.cpp)
 
 
-## Week 4 🚧
+## Week 4 ✅
 
 1. [Minimum Depth of Binary Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3504/) ➡️ [CPP Solution](Week4/minDepth.cpp)
 2. [132 Pattern](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3505/) ➡️ [CPP Solution](Week4/find132pattern.cpp)
@@ -43,6 +43,7 @@
 4. [Stone Game IV](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3507/) ➡️ [CPP Solution](Week4/winnerSquareGame.cpp)
 5. [Champagne Tower](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3508/) ➡️ [CPP Solution](Week4/champagneTower.cpp)
 6. [Linked List Cycle II](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3509/) ➡️ [CPP Solution](Week4/detectCycle.cpp)
+7. [Summary Ranges](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3510/) ➡️ [CPP Solution](Week4/summaryRanges.cpp)
 
 ## Week 5 🚧
 
