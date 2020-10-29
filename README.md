@@ -47,7 +47,7 @@
 
 ## Week 5 🚧
 
-Coming Soon...
+1. [Maximize Distance to Closest Person](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3512/) ➡️ [CPP Solution](Week5/maxDistToClosest.cpp)
 
 ## Other Challenges 💪
 
