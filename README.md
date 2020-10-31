@@ -48,6 +48,7 @@
 ## Week 5 🚧
 
 1. [Maximize Distance to Closest Person](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3512/) ➡️ [CPP Solution](Week5/maxDistToClosest.cpp)
+2. [Number of Longest Increasing Subsequence](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3513/) ➡️ [CPP Solution](Week5/findNumberOfLIS.cpp)
 
 ## Other Challenges 💪
 
