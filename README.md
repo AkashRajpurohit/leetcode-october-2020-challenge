@@ -45,10 +45,11 @@
 6. [Linked List Cycle II](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3509/) ➡️ [CPP Solution](Week4/detectCycle.cpp)
 7. [Summary Ranges](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3510/) ➡️ [CPP Solution](Week4/summaryRanges.cpp)
 
-## Week 5 🚧
+## Week 5 ✅
 
 1. [Maximize Distance to Closest Person](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3512/) ➡️ [CPP Solution](Week5/maxDistToClosest.cpp)
 2. [Number of Longest Increasing Subsequence](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3513/) ➡️ [CPP Solution](Week5/findNumberOfLIS.cpp)
+3. [Recover Binary Search Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/563/week-5-october-29th-october-31st/3514/) ➡️ [CPP Solution](Week5/recoverTree.cpp)
 
 ## Other Challenges 💪
 
